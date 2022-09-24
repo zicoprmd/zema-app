@@ -3,7 +3,6 @@ $darkgreen: #425e25;
 $white: #ffffff;
 
 #banner {
-  width: 100vw;
   .image-banner {
     width: 100%;
   }
@@ -90,6 +89,9 @@ $white: #ffffff;
   padding: 2rem;
   .title-wrapper {
     width: 50vw;
+    .title-news {
+      margin-left: 4rem;
+    }
   }
   .forms-wrapper {
     display: flex;
@@ -111,4 +113,17 @@ $white: #ffffff;
       border-radius: 10px;
     }
   }
+}
+
+.reserved {
+  margin-left: 6rem;
+  margin-top: 2rem;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  color: #8f8f8f;
 }

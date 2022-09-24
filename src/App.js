@@ -103,12 +103,21 @@ function App() {
       </div>
       <div id="newsletter">
         <div className="title-wrapper">
-          <h2>NEWSLETTER</h2>
+          <h2 className="title-news">NEWSLETTER</h2>
         </div>
         <div className="forms-wrapper">
           <input placeholder="Email" />
           <button>SUBMIT</button>
         </div>
+      </div>
+      <div className="reserved">
+        <p>
+          All right reserved, created by
+          <a href="https://twitter.com/zicoprmd" target="blank">
+            {' '}
+            zico permadi
+          </a>
+        </p>
       </div>
     </div>
   );
