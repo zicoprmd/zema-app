@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 import banner from '../src/assets/banner/banner_1.JPG';
 import articleImg1 from '../src/assets/article/IMG_9740.JPG';
@@ -16,7 +16,9 @@ function App() {
     <div className="App">
       <div id="banner">
         <img src={banner} className="image-banner" />
+        <h1 className="nama-anak">Zema Arazka Permadi</h1>
       </div>
+
       <div className="article"></div>
       <div className="article"></div>
       <div className="horizontal"></div>
