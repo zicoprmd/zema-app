@@ -1,23 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
 
+import banner from '../assets/banner/IMG_9741.JPG';
+import articleImg1 from '../assets/banner/IMG_9740.JPG';
+import articleImg2 from '../assets/banner/IMG_9749.JPG';
+import articleImg3 from '../assets/banner/IMG_9754.JPG';
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="banner">
+        <img src="" />
+      </div>
+      <div className="article"></div>
+      <div className="article"></div>
+      <div className="horizontal"></div>
+      <div className="newsletter"></div>
     </div>
   );
 }
