@@ -53,19 +53,24 @@ $white: #ffffff;
         height: 400px;
       }
     }
+    .content-wrapper {
+      justify-content: center;
+    }
     @media screen and (max-width: 501px) {
       display: block;
+      padding: 0;
       .image-wrapper,
       .content-wrapper {
         max-width: unset;
         justify-content: center;
         .image {
-          width: 250px;
+          width: 300px;
           justify-content: center;
         }
       }
       .content-wrapper {
-        padding-right: unset;
+        justify-content: center;
+        padding: 1rem;
       }
     }
   }
@@ -80,21 +85,33 @@ $white: #ffffff;
         height: 400px;
       }
     }
+    .imgwrp-mobile {
+      display: none;
+    }
     .content-wrapper {
       padding-right: 3rem;
     }
+
     @media screen and (max-width: 501px) {
       display: block;
+      padding: 0;
       .image-wrapper,
       .content-wrapper {
         max-width: unset;
         .image {
-          width: 200px;
+          width: 300px;
           justify-content: center;
         }
       }
+      .imgwrp-mobile {
+        display: block;
+      }
+      .imgwrp-dom {
+        display: none;
+      }
       .content-wrapper {
         padding-right: unset;
+        padding: 1rem;
       }
     }
   }

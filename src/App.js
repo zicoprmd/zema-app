@@ -43,6 +43,9 @@ function App() {
         </div>
       </div>
       <div className="article article-2">
+        <div className="image-wrapper imgwrp-mobile">
+          <img src={articleImg2} className="image image-2"></img>
+        </div>
         <div className="content-wrapper">
           <p className="text">
             Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -65,7 +68,7 @@ function App() {
             PageMaker including versions of Lorem Ipsum.
           </p>
         </div>
-        <div className="image-wrapper">
+        <div className="image-wrapper imgwrp-dom">
           <img src={articleImg2} className="image image-2"></img>
         </div>
       </div>
