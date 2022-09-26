@@ -21,9 +21,9 @@ function App() {
       <div id="banner">
         <img src={banner} className="image-banner" />
       </div>
-      {/* <div className="judul">
+      <div className="judul">
         <h1 className="nama-anak">Zema Arazka Permadi</h1>
-      </div> */}
+      </div>
       <div className="article article-1">
         <div className="image-wrapper">
           <img src={articleImg1} className="image image-1"></img>
