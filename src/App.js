@@ -107,7 +107,7 @@ function App() {
         </div>
         <div className="forms-wrapper">
           <input placeholder="Email" />
-          <button>SUBMIT</button>
+          <button>Submit</button>
         </div>
       </div>
       <div className="reserved">
