@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zema-app/static/css/main.24d59142.css",
-    "main.js": "/zema-app/static/js/main.c89d28b7.js",
+    "main.css": "/zema-app/static/css/main.d0675088.css",
+    "main.js": "/zema-app/static/js/main.68f1e5fa.js",
     "static/js/787.9aa7fb0b.chunk.js": "/zema-app/static/js/787.9aa7fb0b.chunk.js",
     "static/media/banner_1.JPG": "/zema-app/static/media/banner_1.0a7d4f26cc6fc7e57a28.JPG",
     "static/media/z12.JPG": "/zema-app/static/media/z12.518f9ead14ac7c4d082d.JPG",
@@ -18,12 +18,12 @@
     "static/media/z4.JPG": "/zema-app/static/media/z4.cd297951f1f102964c44.JPG",
     "static/media/logo.svg": "/zema-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zema-app/index.html",
-    "main.24d59142.css.map": "/zema-app/static/css/main.24d59142.css.map",
-    "main.c89d28b7.js.map": "/zema-app/static/js/main.c89d28b7.js.map",
+    "main.d0675088.css.map": "/zema-app/static/css/main.d0675088.css.map",
+    "main.68f1e5fa.js.map": "/zema-app/static/js/main.68f1e5fa.js.map",
     "787.9aa7fb0b.chunk.js.map": "/zema-app/static/js/787.9aa7fb0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24d59142.css",
-    "static/js/main.c89d28b7.js"
+    "static/css/main.d0675088.css",
+    "static/js/main.68f1e5fa.js"
   ]
 }
