@@ -6,7 +6,7 @@ const Article2 = () => {
     <section>
       <div className="article article-2">
         <div className="image-wrapper imgwrp-mobile">
-          <img src={articleImg2} className="image image-2"></img>
+          <img src={articleImg2} className="image image-2" alt="article2"></img>
         </div>
         <div className="content-wrapper">
           <p className="text">
@@ -31,7 +31,7 @@ const Article2 = () => {
           </p>
         </div>
         <div className="image-wrapper imgwrp-dom">
-          <img src={articleImg2} className="image image-2"></img>
+          <img src={articleImg2} className="image image-2" alt="article2"></img>
         </div>
       </div>
     </section>

@@ -16,34 +16,34 @@ const Horizontal = () => {
     <section>
       <div id="horizontal">
         <div className="image-wrapper">
-          <img src={img1} className="image image-1" />
+          <img src={img1} className="image image-1" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img3} className="image image-2" />
+          <img src={img3} className="image image-2" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img2} className="image image-3" />
+          <img src={img2} className="image image-3" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img4} className="image image-4" />
+          <img src={img4} className="image image-4" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img10} className="image image-5" />
+          <img src={img10} className="image image-5" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img7} className="image image-6" />
+          <img src={img7} className="image image-6" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img6} className="image image-7" />
+          <img src={img6} className="image image-7" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img8} className="image image-8" />
+          <img src={img8} className="image image-8" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img9} className="image image-9" />
+          <img src={img9} className="image image-9" alt="zema" />
         </div>
         <div className="image-wrapper">
-          <img src={img5} className="image image-10" />
+          <img src={img5} className="image image-10" alt="zema" />
         </div>
       </div>
     </section>

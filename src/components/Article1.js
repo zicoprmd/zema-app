@@ -6,7 +6,7 @@ const Article1 = () => {
     <section>
       <div className="article article-1">
         <div className="image-wrapper">
-          <img src={articleImg1} className="image image-1"></img>
+          <img src={articleImg1} className="image image-1" alt="article1"></img>
         </div>
         <div className="content-wrapper">
           <p className="text">
