@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/zema-app/static/css/main.33bae7c1.css",
-    "main.js": "/zema-app/static/js/main.423ad040.js",
+    "main.css": "/zema-app/static/css/main.dc222b74.css",
+    "main.js": "/zema-app/static/js/main.b4272e63.js",
     "static/js/787.9aa7fb0b.chunk.js": "/zema-app/static/js/787.9aa7fb0b.chunk.js",
     "static/media/banner_1.JPG": "/zema-app/static/media/banner_1.0a7d4f26cc6fc7e57a28.JPG",
+    "static/media/z2.JPG": "/zema-app/static/media/z2.2e8660c2120961053866.JPG",
+    "static/media/z4.JPG": "/zema-app/static/media/z4.aaa05f524c2ee156bd62.JPG",
     "static/media/z12.JPG": "/zema-app/static/media/z12.518f9ead14ac7c4d082d.JPG",
     "static/media/z1.JPG": "/zema-app/static/media/z1.749555f150f60dba3c9f.JPG",
     "static/media/z11.JPG": "/zema-app/static/media/z11.b605ff4eaa41baebf66e.JPG",
@@ -12,18 +14,15 @@
     "static/media/z10.JPG": "/zema-app/static/media/z10.560c534ca7173409bb3d.JPG",
     "static/media/z9.JPG": "/zema-app/static/media/z9.d5f4049c0663ea026ebe.JPG",
     "static/media/z8.JPG": "/zema-app/static/media/z8.f632ec9f8b1421b5edf9.JPG",
-    "static/media/z2.JPG": "/zema-app/static/media/z2.17b4bd399e4593058cfb.JPG",
     "static/media/z13.JPG": "/zema-app/static/media/z13.54fede5e8ad45f090829.JPG",
     "static/media/z5.JPG": "/zema-app/static/media/z5.2dbe8513caab985d44e9.JPG",
-    "static/media/z4.JPG": "/zema-app/static/media/z4.cd297951f1f102964c44.JPG",
-    "static/media/logo.svg": "/zema-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zema-app/index.html",
-    "main.33bae7c1.css.map": "/zema-app/static/css/main.33bae7c1.css.map",
-    "main.423ad040.js.map": "/zema-app/static/js/main.423ad040.js.map",
+    "main.dc222b74.css.map": "/zema-app/static/css/main.dc222b74.css.map",
+    "main.b4272e63.js.map": "/zema-app/static/js/main.b4272e63.js.map",
     "787.9aa7fb0b.chunk.js.map": "/zema-app/static/js/787.9aa7fb0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33bae7c1.css",
-    "static/js/main.423ad040.js"
+    "static/css/main.dc222b74.css",
+    "static/js/main.b4272e63.js"
   ]
 }
