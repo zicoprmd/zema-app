@@ -3,7 +3,7 @@ import articleImg2 from '../assets/article/z4.JPG';
 
 const Article2 = () => {
   return (
-    <section>
+    <section id="zema2">
       <div className="article article-2">
         <div className="image-wrapper imgwrp-mobile">
           <img src={articleImg2} className="image image-2" alt="article2"></img>

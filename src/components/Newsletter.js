@@ -11,10 +11,14 @@ const Newsletter = () => {
         <div className="title-wrapper">
           <h2 className="title-news">NEWSLETTER</h2>
         </div>
-        <div className="forms-wrapper">
-          <input placeholder="Email" />
+        <form
+          method="POST"
+          action="https://formsubmit.co/zicoprmd@gmail.com"
+          enctype="multipart/form-data"
+          className="forms-wrapper">
+          <input type="email" name="email" placeholder="Email" required />
           <button onClick={greeting}>Submit</button>
-        </div>
+        </form>
       </div>
     </section>
   );

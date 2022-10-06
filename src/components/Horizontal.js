@@ -42,7 +42,7 @@ const Horizontal = () => {
         <div className="image-wrapper">
           <img src={img9} className="image image-9" alt="zema" />
         </div>
-        <div className="image-wrapper">
+        <div id="zema10" className="image-wrapper">
           <img src={img5} className="image image-10" alt="zema" />
         </div>
       </div>
