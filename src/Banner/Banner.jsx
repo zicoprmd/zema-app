@@ -35,9 +35,6 @@ const Banner = () => {
           {slides.map((slide, index) => (
             <CarouselItem slide={slide} key={index} />
           ))}
-          <div className="judul">
-            <h1 className="nama-anak">Zema Arazka Permadi</h1>
-          </div>
         </div>
       </div>
     </div>
