@@ -2,6 +2,11 @@ import React, { useState, useEffect } from 'react';
 import './Banner.scss';
 // IMAGE
 import banner from '../assets/banner/ban2.JPG';
+import zema1 from '../assets/banner/zem1.JPG';
+import zema2 from '../assets/banner/zem6.JPG';
+import zema3 from '../assets/banner/zem7.JPG';
+import zema4 from '../assets/banner/zem8.JPG';
+// COMPONENTS
 import CarouselItem from './CarouselItem';
 
 const Banner = () => {
@@ -18,13 +23,7 @@ const Banner = () => {
     };
   }, []);
 
-  const slides = [
-    'http://localhost:3000/zema-app/assets/banner/zem6.JPG',
-    'http://localhost:3000/zema-app/assets/banner/zem1.JPG',
-    'http://localhost:3000/zema-app/assets/banner/zem7.JPG',
-    'http://localhost:3000/zema-app/assets/banner/zem8.JPG',
-    banner,
-  ];
+  const slides = [zema4, zema3, zema2, zema1, banner];
 
   return (
     <div className="container">

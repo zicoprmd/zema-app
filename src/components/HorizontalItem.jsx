@@ -1,6 +1,6 @@
-const HorizontalItem = ({ slide }) => {
+const HorizontalItem = ({ slide, i }) => {
   return (
-    <div className="image-wrapper">
+    <div key={i} className="image-wrapper">
       <img src={slide} className="image image-1" alt="zema" />
     </div>
   );
