@@ -1,11 +1,15 @@
 {
   "files": {
     "main.css": "/zema-app/static/css/main.78436585.css",
-    "main.js": "/zema-app/static/js/main.3692ca93.js",
+    "main.js": "/zema-app/static/js/main.91860082.js",
     "static/js/787.9aa7fb0b.chunk.js": "/zema-app/static/js/787.9aa7fb0b.chunk.js",
     "static/media/ban2.JPG": "/zema-app/static/media/ban2.631c31946e6dd0985ee5.JPG",
+    "static/media/zem1.JPG": "/zema-app/static/media/zem1.b7d6b74f6d111dfc1be5.JPG",
+    "static/media/zem8.JPG": "/zema-app/static/media/zem8.474a6daee433966fd706.JPG",
+    "static/media/zem6.JPG": "/zema-app/static/media/zem6.24dc294f74ac9848fa68.JPG",
     "static/media/z2.JPG": "/zema-app/static/media/z2.2e8660c2120961053866.JPG",
     "static/media/z4.JPG": "/zema-app/static/media/z4.aaa05f524c2ee156bd62.JPG",
+    "static/media/zem7.JPG": "/zema-app/static/media/zem7.315c25bd122a244942d5.JPG",
     "static/media/z12.JPG": "/zema-app/static/media/z12.518f9ead14ac7c4d082d.JPG",
     "static/media/z1.JPG": "/zema-app/static/media/z1.749555f150f60dba3c9f.JPG",
     "static/media/z11.JPG": "/zema-app/static/media/z11.b605ff4eaa41baebf66e.JPG",
@@ -18,11 +22,11 @@
     "static/media/z5.JPG": "/zema-app/static/media/z5.2dbe8513caab985d44e9.JPG",
     "index.html": "/zema-app/index.html",
     "main.78436585.css.map": "/zema-app/static/css/main.78436585.css.map",
-    "main.3692ca93.js.map": "/zema-app/static/js/main.3692ca93.js.map",
+    "main.91860082.js.map": "/zema-app/static/js/main.91860082.js.map",
     "787.9aa7fb0b.chunk.js.map": "/zema-app/static/js/787.9aa7fb0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78436585.css",
-    "static/js/main.3692ca93.js"
+    "static/js/main.91860082.js"
   ]
 }
