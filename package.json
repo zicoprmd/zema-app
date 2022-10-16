@@ -1,6 +1,6 @@
 {
   "name": "zema-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://zicoprmd.github.io/zema-app",
   "private": true,
   "dependencies": {
