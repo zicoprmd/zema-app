@@ -1,4 +1,5 @@
 import React from 'react';
+import './Reserved.scss';
 
 const Reserved = () => {
   return (
@@ -6,7 +7,10 @@ const Reserved = () => {
       <div className="reserved">
         <p>
           All right reserved, created by
-          <a href="https://twitter.com/zicoprmd" target="blank">
+          <a
+            href="https://twitter.com/zicoprmd"
+            target="blank"
+            rel="noopenner norefferer">
             {' '}
             zico permadi
           </a>

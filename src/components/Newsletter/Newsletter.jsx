@@ -1,4 +1,5 @@
 import React from 'react';
+import './Newsletter.scss';
 
 const Newsletter = () => {
   const form = document.forms['zema-form'];

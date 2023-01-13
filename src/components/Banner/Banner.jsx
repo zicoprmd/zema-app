@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import './Banner.scss';
 // IMAGE
-import banner from '../assets/banner/ban2.JPG';
-import zema1 from '../assets/banner/zem1.JPG';
-import zema2 from '../assets/banner/zem6.JPG';
-import zema3 from '../assets/banner/zem7.JPG';
-import zema4 from '../assets/banner/zem8.JPG';
+import banner from '../../assets//banner/ban2.JPG';
+import zema1 from '../../assets/banner/zem1.JPG';
+import zema2 from '../../assets/banner/zem6.JPG';
+import zema3 from '../../assets/banner/zem7.JPG';
+import zema4 from '../../assets/banner/zem8.JPG';
 // COMPONENTS
 import CarouselItem from './CarouselItem';
 
