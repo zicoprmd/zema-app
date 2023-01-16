@@ -25,7 +25,9 @@ const Newsletter = () => {
           enctype="multipart/form-data"
           className="forms-wrapper">
           <input type="email" name="email" placeholder="Email" required />
-          <button onClick={greeting}>Submit</button>
+          <button className="btn-submit" onClick={greeting}>
+            Submit
+          </button>
         </form>
       </div>
     </section>
